@@ -29,6 +29,21 @@
 <br><br>
 <hr>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Shahab = {
+  pronouns: "He",
+  code: [Javascript, Python, HTML, CSS, C#, C++, Java],
+  tools: [React, Redux, Node, Vue, Django/DRF, Tensorflow, ScikitLearn, Docker],
+  Database: ["MySQL", "MongoDB", "design system pattern"],
+ 
+ challenge: "#"
+}
+```
+<br><br>
+<hr>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/s_rahnama" target="blank">
