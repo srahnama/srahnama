@@ -15,8 +15,8 @@
 </p>
 
 <p align="left"> 
-         <a href="https://twitter.com/ishikakesarwan4" target="blank">
-                  <img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" />
+         <a href="https://twitter.com/s_rahnama" target="blank">
+                  <img src="https://img.shields.io/twitter/follow/s_rahnama?logo=twitter&style=for-the-badge" alt="s_rahnama" />
          </a> 
 </p>
 
