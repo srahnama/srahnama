@@ -6,7 +6,6 @@
 
 <p align="left"> 
          <img src="https://komarev.com/ghpvc/?username=srahnama&label=Profile%20views&color=0e75b6&style=flat" alt="srahnama" /> </p>
-
 <p>
 <a align= "center" href="https://github.com/srahnama">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=srahnama&theme=cobalt&show_icons=true&count_private=true" />
@@ -24,7 +23,6 @@
 
 [![Shahab Rahnama StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8767186&layout=compact&theme=dark)](https://stackoverflow.com/users/8767186/shahab-rahnama)
 
-- 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚜𝚒𝚝 𝚌𝚘𝚞𝚗𝚝 𝚏𝚛𝚘𝚖 
 - 📫 How to reach me [SRahnama.ir](𝚑𝚝𝚝𝚙://SRahnama.ir)
 <br><br>
 <hr>
@@ -57,6 +55,6 @@ const Shahab = {
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/srahnama/srahnama/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
