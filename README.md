@@ -45,11 +45,11 @@ const Shahab = {
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/s_rahnama" target="blank">
-         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="srahnama" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/s-rahnama/" target="blank">
-         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="srahnama" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/srahnama1" target="blank">
-         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" />
+         <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="srahnama" height="50" width="50" />
          </a>
 </p>
 
