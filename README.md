@@ -25,7 +25,7 @@
 
 <h2>
          <a href="𝚑𝚝𝚝𝚙://SRahnama.ir" target="_blank">
-                 - 📫 How to reach me SRahnama.ir
+                📫 How to reach me SRahnama.ir
          </a> 
 </h2>
 
