@@ -14,7 +14,7 @@
 </p>
 
 <p align="left"> 
-         <a href="https://twitter.com/s_rahnama" target="blank">
+         <a href="https://twitter.com/s_rahnama" target="_blank">
                   <img src="https://img.shields.io/twitter/follow/s_rahnama?logo=twitter&style=for-the-badge" alt="s_rahnama" />
          </a> 
          
@@ -23,11 +23,10 @@
 
 [![Shahab Rahnama StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8767186&layout=compact&theme=dark)](https://stackoverflow.com/users/8767186/shahab-rahnama)
 
-<h2>
-         <a href="𝚑𝚝𝚝𝚙://SRahnama.ir" target="_blank">
-                📫 How to reach me SRahnama.ir
-         </a> 
-</h2>
+
+<a href="𝚑𝚝𝚝𝚙://SRahnama.ir" target="_blank">
+         📫 How to reach me SRahnama.ir
+</a> 
 
 <br><br>
 <hr>
