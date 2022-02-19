@@ -36,7 +36,7 @@
 ```javascript
 const Shahab = {
   pronouns: "He",
-  Languages: [ Javascript, Python, HTML, CSS, C#, C++, Java ],
+  Languages: [ Javascript, Python, C#, C/C++, Java, Pascal ],
   Deep-Learning:[ SciKit-Learn, Tensorflow, Keras, Scipy, Pandas, Numpy, Matplotlib ],
   Python:[ Django/DRF, Flask, Tkinter ],
   Javascript: [ ES6, JQuery, Reactjs, React Native, Vue, Redux, Nodejs, Expressjs, React-Admin, Mongoose ],
