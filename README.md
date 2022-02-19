@@ -36,11 +36,13 @@
 ```javascript
 const Shahab = {
   pronouns: "He",
-  code: [Javascript, Python, HTML, CSS, C#, C++, Java],
-  tools: [React, Redux, Node, Vue, Django/DRF, Tensorflow, ScikitLearn, Docker],
-  Database: ["MySQL", "MongoDB", "design system pattern"],
- 
- challenge: "#"
+  Languages: [ Javascript, Python, HTML, CSS, C#, C++, Java ],
+  Deep-Learning:[ SciKit-Learn, Tensorflow, Keras, Scipy, Pandas, Numpy, Matplotlib ],
+  Python:[ Django/DRF, Flask, Tkinter ],
+  Javascript: [ ES6, JQuery, Reactjs, React Native, Vue, Redux, Nodejs, Expressjs, React-Admin, Mongoose ],
+  Web-Design::[  Bootstrap, CSS, Semantic UI, Material UI, AntDesign ],
+  Database: [ MySQL, MongoDB, SQLite ],
+
 }
 ```
 <br><br>
