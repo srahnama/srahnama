@@ -35,12 +35,12 @@
 
 ```javascript
 const Shahab = {
-  pronouns: "He",
+  pronouns: [ "He" ],
   Languages: [ Javascript, Python, C#, C/C++, Java, Pascal ],
-  Deep-Learning:[ SciKit-Learn, Tensorflow, Keras, Scipy, Pandas, Numpy, Matplotlib ],
-  Python:[ Django/DRF, Flask, Tkinter ],
+  DL, ML: [ SciKit-Learn, Tensorflow, Keras, Scipy, Pandas, Numpy, Matplotlib ],
+  Python: [ Django/DRF, Flask, Tkinter ],
   Javascript: [ ES6, JQuery, Reactjs, React Native, Vue, Redux, Nodejs, Expressjs, React-Admin, Mongoose ],
-  Web-Design::[  Bootstrap, CSS, Semantic UI, Material UI, AntDesign ],
+  Web-Design: [  Bootstrap, CSS, Semantic UI, Material UI, AntDesign ],
   Database: [ MySQL, MongoDB, SQLite ],
 
 }
