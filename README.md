@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Shahab Rahnama</h1>
-<h3 align="center">A lifelong learner, AI enthusiastic, INTJ, Quiet type, Strong, Programmer, and Designer. 💚</h3>
+<h3 align="center">A lifelong learner, AI enthusiastic, Quiet type, Strong, Programmer, and Designer. 💚</h3>
 
 <p align="left"> 
          <img src="https://komarev.com/ghpvc/?username=srahnama&label=Profile%20views&color=0e75b6&style=flat" alt="srahnama" /> </p>
