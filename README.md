@@ -13,13 +13,7 @@
 
 </p>
 
-<p align="left"> 
-         <a href="https://twitter.com/s_rahnama" target="_blank">
-                  <img src="https://img.shields.io/twitter/follow/s_rahnama?logo=twitter&style=for-the-badge" alt="s_rahnama" />
-         </a> 
-         
 
-</p>
 
 [![Shahab Rahnama StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8767186&layout=compact&theme=dark)](https://stackoverflow.com/users/8767186/shahab-rahnama)
 
@@ -49,13 +43,6 @@ const Shahab = {
 <hr>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/s_rahnama" target="blank">
-         <img align="center" src="https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg" alt="srahnama" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/s-rahnama/" target="blank">
-         <img align="center" src="https://github.githubassets.com/images/modules/site/icons/footer/linkedin.svg" alt="srahnama" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
 
 <hr>
 
