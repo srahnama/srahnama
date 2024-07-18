@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Shahab Rahnama</h1>
-<h3 align="center">A lifelong learner, AI enthusiastic, Quiet type, Strong, Programmer, and Designer. 💚</h3>
+<h3 align="center"> 🌟 Dreamer | AI Explorer | Code Alchemist | Python | JavaScript </h3>
 
 <p align="left"> 
          <img src="https://komarev.com/ghpvc/?username=srahnama&label=Profile%20views&color=0e75b6&style=flat" alt="srahnama" /> </p>
@@ -39,12 +39,7 @@ const Shahab = {
 
 }
 ```
-<br><br>
-<hr>
 
-<h3 align="center">Connect with me:</h3>
-
-<hr>
 
 <!-- <p align="center">
   <img src="https://github.com/srahnama/srahnama/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
